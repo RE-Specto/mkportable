@@ -14,6 +14,6 @@ using 7-zip sfx by Igor Pavlov, 7-Zip is licensed under the GNU LGPL license
 feel free to visit www.7-zip.org for 7-zip source code.
 
 this is a free software   
-the author is not responsible whatsoever for any use or misuse of the software
+the author is not responsible whatsoever for any use or misuse of the software   
 (C) Evgeni Vahonin 2021, GNU LGPL license.
 
